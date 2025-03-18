@@ -71,13 +71,6 @@ This project aims to optimize Dominos' ingredient ordering process by predicting
 
 ---
 
-## Visualizations
-### Pizza Category Distribution
-- Identified popular pizza categories.
-- ![Pizza Category Distribution](images/pizza_category_distribution.jpg)
-
----
-
 ## How to Use
 1. **Run the Notebook**:
     - Follow the steps in the Jupyter Notebook to preprocess data, train models, and generate predictions.
